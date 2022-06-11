@@ -1,5 +1,5 @@
 # Entity-Relationahip-Diagram-ERD
-#**By Ignacio González Bohórquez**
+# **By Ignacio González Bohórquez**
 Build and Entity Relationship Diagram (ERD) for a Mobile Phone Store 
 
 DDL SQL Table Create with Primary & Foreign keys.
